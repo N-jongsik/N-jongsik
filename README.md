@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on computer information engineering in Kwangwoon University 
-- 🌱 I’m currently learning AI, OS, Algorithm, DataStructure
+- 🔭 I’m currently working on computer information engineering in Kwangwoon University
+- 📘 What I’ve studied so far:AI, OS, Algorithm, DataStructure, Computer Network, Computer Architecture
+- 🌱 I’m currently learning web and app development to become a full-stack developer
 - 📫 How to reach me: 010-3467-6350
 
 
@@ -50,7 +51,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
-
+<hr>
 
 <a href="https://www.instagram.com/jxxng.syykk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
 <a href="https://www.notion.so/jxxngsyykk/ac251288994e4b1db63fdd553d5eb721" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/></a>
