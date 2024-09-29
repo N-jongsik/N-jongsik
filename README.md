@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/jxxng.syykk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
 <a href="https://www.notion.so/jxxngsyykk/ac251288994e4b1db63fdd553d5eb721" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/> : njs8541<hr>
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-jongsik&show_icons=true&theme=radical)
 
