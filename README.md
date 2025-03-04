@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 #### Communication
 <img src="https://img.shields.io/badge/Figma-0ACF83?style=flat-square&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
 
+---
+
 #### Version Control 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 
