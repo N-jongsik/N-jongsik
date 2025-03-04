@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazonaws&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![JPA](https://img.shields.io/badge/JPA-%23007396?logo=hibernate&logoColor=white&style=flat)
+![MyBatis](https://img.shields.io/badge/MyBatis-%23DC382D?logo=MyBatis&logoColor=white&style=flat)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?logo=swagger&logoColor=white&style=flat)
   
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![H2](https://img.shields.io/badge/-H2-0174C8?logo=h2-database&logoColor=white&style=flat)
