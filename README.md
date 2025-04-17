@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on computer information engineering in Kwangwoon University
+- 🔭 I’m currently working on computer information engineering
 - 📘 What I’ve studied so far: AI, OS, Algorithm, DataStructure, Computer Network, Computer Architecture
 - 🌱 I’m currently learning web and app development to become a backend developer
 - 📫 How to reach me: 010-3467-6350
